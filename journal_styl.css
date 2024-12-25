@@ -1,0 +1,61 @@
+body
+{
+    overflow: hidden;
+}
+
+
+.btn1 
+{
+    font-size: 19px;
+    font-family: none;
+    font-weight: bold;
+    padding-right: 56px;
+    padding-bottom: 44px;
+    margin-top: 139px;
+    margin-bottom: 330px;
+    padding-top: 10px;
+}
+.center 
+{
+    background-image: url("travelbg.png"); 
+    height:100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    background-size: cover;
+   background-attachment: fixed; 
+    text-align: center;
+    padding-top: 399px;
+    padding-left: 880px;
+    display: flex;
+}
+.bt2 
+{
+    padding-top: 10px;
+    margin-left: 13px;
+    margin-top: 140px;
+    padding-bottom: 11px;
+    padding-right: 25px;
+    padding-left: 20px;
+    font-size: 19px;
+    font-family: none;
+    font-weight: bold;
+}
+button
+{
+    padding-left: 45px;
+}
+button:hover{
+    background-color:rgb(46, 41, 41);
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color:rgb(22, 16, 16) ;
+    font-family: none;
+    font-weight: bold;
+}
+a:hover
+{
+    color:whitesmoke;
+}

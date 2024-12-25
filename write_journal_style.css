@@ -1,0 +1,33 @@
+body{
+    overflow: hidden;
+}
+
+ .center
+{
+    background-image: url("Explaor\ like\ there’s\ No\ Tomorrow.png");
+    background-size: cover;
+    opacity: 1;
+    height:100vh;
+    width: 100vw;
+   /* text-align: center;
+   padding-top: 42px;
+   padding-bottom: 42px; */
+} 
+.info
+{
+   padding-left: 40px;
+}
+form
+{
+   padding-left: 43px;
+   padding-top: 206px;
+}
+input 
+{
+    width: 314px;
+    height: 55px;
+}
+#btn
+{
+    background-color: aqua;
+}
